@@ -72,7 +72,7 @@ Follow these steps to set up the project locally:
 
 ## 📂 Project Structure
 Here is an overview of the project directory structure:
-
+```
 NBASHOP/
 ├── ecommerce_db.sql         # Database schema
 ├── nba_shop_frontend/       # Frontend application files
@@ -86,7 +86,7 @@ NBASHOP/
 │       ├── cart.php         # Shopping cart
 │       ├── detail.php       # Product details
 │       └── ...              # Other PHP files
-
+```
 
 ## 📜 Template Information
 
